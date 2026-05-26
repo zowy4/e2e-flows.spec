@@ -1,4 +1,4 @@
-markdown_content = """# Proyecto de Automatización de Pruebas E2E - Swag Labs (SauceDemo)
+# Proyecto de Automatización de Pruebas E2E - Swag Labs (SauceDemo)
 
 Este repositorio contiene la suite de pruebas automatizadas End-to-End (E2E) para la aplicación web **SauceDemo** (Swag Labs), un sitio simulado de comercio electrónico utilizado ampliamente para prácticas de control de calidad y automatización de software.
 
