@@ -77,5 +77,6 @@ Running 6 tests using 1 worker
   ✓  6. Cierre de sesión (Logout) exitoso (410ms)
 
   6 passed (2.4s)
+<img width="905" height="438" alt="image" src="https://github.com/user-attachments/assets/06da38bd-cc6f-457a-b4fe-41ccc2ac8352" />
 
   
