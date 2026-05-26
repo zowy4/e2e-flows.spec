@@ -4,12 +4,10 @@ Este repositorio contiene la suite de pruebas automatizadas End-to-End (E2E) par
 
 ## 👥 Integrantes del Equipo
 * **Zoé Andrés Chacón Zavala** (chaconzavalazoeandres@gmail.com)
-* *[Agregar otro integrante aquí si aplica]*
 
 ## 🛠️ Herramienta Utilizada
 Para este proyecto se seleccionó **Playwright** (con TypeScript). Las razones principales de esta elección fueron:
 * **Velocidad y Aislamiento:** Ejecuta pruebas de forma nativa y rápida utilizando contextos de navegador aislados.
-* **Reportes Integrados:** Genera reportes HTML detallados con capturas de pantalla y trazas de errores de forma nativa.
 * **Sintaxis Moderna:** Proporciona esperas automáticas (auto-waiting), lo que reduce la fragilidad de las pruebas en comparación con herramientas tradicionales.
 
 ## 🌐 Aplicación Web Bajo Pruebas
